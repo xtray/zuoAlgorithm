@@ -1,6 +1,9 @@
 # 将 N 叉树编码为二叉树
+431.将 N 叉树编码为二叉树
 
 [H]
+
+#深度优先遍历 
 
 ---
 https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree/
@@ -20,7 +23,7 @@ https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree/
 
 注意：
 
-N 的范围在 [1, 1000]  
+N 的范围在 `[1, 1000]` 
 不要使用类成员 / 全局变量 / 静态变量来存储状态。你的编码和解码算法应是无状态的。  
 
 

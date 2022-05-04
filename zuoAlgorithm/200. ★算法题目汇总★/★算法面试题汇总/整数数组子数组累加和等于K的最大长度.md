@@ -1,10 +1,13 @@
-
-
 # 整数数组子数组累加和等于K的最大长度
+325.和等于 k 的最长子数组长度
 
-#数组累加和 
+#数组三连问题 
+[M]
 
 ---
+
+https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k/
+
 
 给定一个整数组成的无序数组arr，值可能正、可能负、可能0
 给定一个整数值K
