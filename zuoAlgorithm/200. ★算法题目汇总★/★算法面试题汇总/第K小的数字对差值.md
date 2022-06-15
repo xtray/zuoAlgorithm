@@ -1,6 +1,12 @@
 # 第K小的数字对差值
+719.找出第 K 小的数对距离
+
+[H]
 
 ---
+
+https://leetcode.cn/problems/find-k-th-smallest-pair-distance/
+
 
 比如{ 5, 3, 1, 4 }  
 全部数字对是：(5,3)、(5,1)、(5,4)、(3,1)、(3,4)、(1,4)  
