@@ -38,6 +38,12 @@ Deque<Integer> stack = new ArrayDeque<Integer>();
 如果不提供Comparator的话，优先队列中元素默认按自然顺序排列，也就是数字默认是小的在队列头，字符串则按字典序排列。
 如果需要大顶堆, 需要定义比较器
 
+```java
+// double类型如何定义大根堆
+PriorityQueue<int[]> pq = new PriorityQueue<int[]>((a, b) ->  
+        Double.compare((double) b[0] / b[1], (double) a[0] / a[1]));
+
+```
 
 ## String 转为 char
 
