@@ -31,11 +31,11 @@ https://leetcode-cn.com/problems/distinct-subsequences-ii/
 输入："aaa"
 输出：3
 解释：3 个不同的子序列分别是 "a", "aa" 以及 "aaa"。
-```
+
 提示：
 
 S 只包含小写字母。
 1 <= S.length <= 2000
-
+```
 
 
