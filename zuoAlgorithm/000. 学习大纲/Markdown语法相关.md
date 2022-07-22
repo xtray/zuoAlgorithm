@@ -47,12 +47,31 @@ a_3x+b_3y+c_3z=d_3\\
 \end{cases}
 $$
 
-$Sum=\begin{cases} L == 0 & H[R]\\
+$sum=\begin{cases} L == 0 & H[R]\\
 L != 0 & H[R] = H[L-1]\end{cases}$
 
 
 $\begin{cases}a & x = 0\\ 
 b & x > 0\end{cases}$
+
+### 大小
+```text
+$\tiny 萌萌哒$
+
+$\scriptsize 萌萌哒$
+
+$\small 萌萌哒$
+
+$\normalsize 萌萌哒(正常)$
+
+$\large 萌萌哒$
+
+$\Large 萌萌哒$
+
+$\huge 萌萌哒$
+
+$\Huge 萌萌哒$
+```
 
 
 https://zhuanlan.zhihu.com/p/95886235

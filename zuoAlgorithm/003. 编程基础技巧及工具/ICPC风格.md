@@ -1,7 +1,7 @@
 # ICPC风格
 ---
 
-不是LeetCode那种自己填函数的, 是自己处理输入输出的
+不是LeetCode那种自己填函数的, 是需要自己处理输入输出的, 也叫ACM竞赛风格
 
 ```
 public static void main(String[] args) {
@@ -46,3 +46,5 @@ public static void main(String[] args) {
 ```
 
 ref: [[两个有序数组相加和的Topk问题]]
+
+[牛客网编程常见输入输出](https://blog.csdn.net/opencvzsefv/article/details/108177036) python + cpp

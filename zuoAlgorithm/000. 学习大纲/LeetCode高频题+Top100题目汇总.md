@@ -336,7 +336,7 @@ https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst
 234. [[回文链表]] [简单]    
 https://leetcode-cn.com/problems/palindrome-linked-list
 
-236. [[二叉树的最近公共祖先]] [中等]    
+236. [[300. 算法题目分类总结/按题目系列分类/# 二叉树的最近公共祖先]] [中等]    
 https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree
 
 237. [[删除链表中的节点]] [简单]    
