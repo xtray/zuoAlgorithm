@@ -2,7 +2,7 @@
 
 ---
 
-## 什么是位图(bitmap)?
+## 什么是[[位图]](bitmap)?
 bitmap --> 用bit(位) 实现 map 的功能   
 
 

@@ -4,6 +4,7 @@
 
 ref: https://www.jianshu.com/p/11158dbc7bde
 
+[[ICPC风格]]
 
 ## 简单输入
 
