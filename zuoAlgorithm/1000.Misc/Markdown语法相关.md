@@ -5,8 +5,12 @@
 
 ### 分页
 
-<div STYLE="page-break-after: always;"></div>  
 将这个插入到你要分页的地方
+```
+<div STYLE="page-break-after: always;"></div>  
+```
+
+
 
 
 ### Markdown公式记法
@@ -44,15 +48,14 @@ $$\begin{cases}
 a_1x+b_1y+c_1z=d_1\\
 a_2x+b_2y+c_2z=d_2\\
 a_3x+b_3y+c_3z=d_3\\
-\end{cases}
-$$
+\end{cases}$$
 
-$sum=\begin{cases} L == 0 & H[R]\\
-L != 0 & H[R] = H[L-1]\end{cases}$
+$$sum=\begin{cases} L == 0 & H[R]\\
+L != 0 & H[R] = H[L-1]\end{cases}$$
 
 
-$\begin{cases}a & x = 0\\ 
-b & x > 0\end{cases}$
+$$\begin{cases}a & x = 0\\ 
+b & x > 0\end{cases}$$
 
 ### 大小
 ```text
@@ -82,13 +85,14 @@ https://zhuanlan.zhihu.com/p/95886235
 
 
 ## tag query
-
-```query
+```
+\```query
 
 tag:字典序
 
-
+\```
 ```
+
 
 ## tag nest
 ```
@@ -109,7 +113,7 @@ tag:字典序
 ## 内嵌
 https://publish.obsidian.md/help/How+to/Embed+files
 
-!\[\[My File.pdf#page=number\]\]
+![[XXXX.pdf#page=number]]
 
 
 <iframe

@@ -1,7 +1,6 @@
 # CodeForce介绍
 
 https://codeforces.com/
-
 ---
 
 https://www.zhihu.com/question/378582087/answer/1081672478
