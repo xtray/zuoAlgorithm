@@ -15,6 +15,8 @@
 
 ### Markdown公式记法
 
+$\Large x = \frac{-b \pm \sqrt{b^2-4ac} }{2a}$
+
 $(log_{10}N)^2$
 
 $tmp1/10 == 10^{k-2}$
