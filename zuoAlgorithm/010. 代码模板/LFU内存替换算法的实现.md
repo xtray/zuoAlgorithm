@@ -75,3 +75,6 @@ lFUCache.get(4);      // 返回 4
  
 
 进阶：你可以为这两种操作设计时间复杂度为 O(1) 的实现吗？
+
+More:
+https://leetcode.cn/problems/lfu-cache/solution/java-13ms-shuang-100-shuang-xiang-lian-biao-duo-ji/

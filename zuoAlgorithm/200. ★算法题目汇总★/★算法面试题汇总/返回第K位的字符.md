@@ -2,10 +2,13 @@
 #网易 
 
 ---
+```
+规定：
 
-规定：L[1]对应a，L[2]对应b，L[3]对应c，...，L[25]对应y  
+L[1]对应a，L[2]对应b，L[3]对应c，...，L[25]对应y  
 S1 = a  
 S(i) = S(i-1) + L[i] + reverse(invert(S(i-1)));  
+
 解释invert操作：  
 S1 = a  
 S2 = aby  
@@ -20,3 +23,6 @@ invert(abycaxy) = yxawyba, 再reverse = abywaxy
 直到S25结束  
 给定两个参数n和k，返回Sn的第k位是什么字符，n从1开始，k从1开始  
 比如n=4，k=2，表示S4的第2个字符是什么，返回b字符  
+```
+
+ref: 1545.[[找出第 N 个二进制字符串中的第 K 位]] [M]
