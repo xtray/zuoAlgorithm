@@ -26,5 +26,5 @@ https://leetcode-cn.com/problems/k-inverse-pairs-array/
 
 说明:
 
- n 的范围是 [1, 1000] 并且 k 的范围是 [0, 1000]。
+ n 的范围是 `[1, 1000]` 并且 k 的范围是 `[0, 1000]`。
 

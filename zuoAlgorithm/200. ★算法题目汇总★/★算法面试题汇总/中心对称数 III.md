@@ -12,7 +12,7 @@ https://leetcode-cn.com/problems/strobogrammatic-number-iii/
 
 中心对称数是指一个数字在旋转了 180 度之后看起来依旧相同的数字（或者上下颠倒地看）。
 
-写一个函数来计算范围在 [low, high] 之间中心对称数的个数。
+写一个函数来计算范围在 `[low, high]` 之间中心对称数的个数。
 ```
 示例:
 
